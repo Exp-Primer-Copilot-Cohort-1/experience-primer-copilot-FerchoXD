@@ -1,4 +1,4 @@
-//create server web socket
+//create server web
 var express = require('express');
 var router = express.Router();
 var mongoose = require('mongoose');
